@@ -1,6 +1,7 @@
 /* common */
 * {
   color: inherit;
+  font-family: sans-serif;
 }
 body {
   margin: 0 auto;
@@ -90,6 +91,7 @@ blockquote {
 
 /* code, tag, category */
 pre {
+  font-family: "Courier New";
   padding: 10px;
 }
 .post-tag, .post-category, :not(.highlight)>*>code {
