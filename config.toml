@@ -2,4 +2,8 @@ baseURL = 'https://nimblebits.blog/'
 languageCode = 'de'
 title = 'Some nimble bits...'
 theme="simplog"
+
 publishDir =".."
+
+[params]
+_merge  = 'deep'
