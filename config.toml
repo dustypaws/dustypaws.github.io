@@ -1,4 +1,4 @@
-baseURL = 'http://nimblebits.blog/'
+baseURL = 'https://nimblebits.blog/'
 languageCode = 'de'
 title = 'Some nimble bits...'
 theme="simplog"
