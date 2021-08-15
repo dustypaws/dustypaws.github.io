@@ -18,6 +18,7 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 ```go
 func main() {
 	fmt.Println("This and that...")
+	os.Exit(0)
 }
 ```
 
