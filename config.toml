@@ -1,0 +1,4 @@
+baseURL = 'http://nimblebits.blog/'
+languageCode = 'de'
+title = 'Some nimble bits...'
+theme="simplog"
